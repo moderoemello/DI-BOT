@@ -29,3 +29,4 @@ Captures a screenshot of the current window.
 Simulates AI processing to identify form fields in the screenshot.
 Generates unique data for each identified field (e.g., username, email, password).
 Fills in the form fields with the generated data.
+![dibot1st example](https://github.com/user-attachments/assets/f1f12995-e0dc-4d31-b61c-f2bec81df7b0)
