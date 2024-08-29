@@ -18,7 +18,9 @@ AI Processing of Screenshots
 Data Generation
 
 Form Filling
+
                             Overall Functionality:
+
 The script automates the process of interacting with a website in Google Chrome by taking the following steps:
 
 Activates an existing Chrome window.
